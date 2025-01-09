@@ -1,1 +1,2 @@
 # ChatbotMySQL
+The chatbot operates by transforming a user's natural language query into a SQL query using MistralAI, executing the query on a SQL database, and returning the results to the user in natural language. This workflow involves multiple stages of data processing, interaction with the MistralAI API, and integration with a SQL database, all seamlessly implemented within a Streamlit application.
